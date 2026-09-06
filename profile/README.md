@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://factory0.ventures"><img src="https://img.shields.io/badge/FACTORY0.VENTURES-LIVE-FF5A36?style=for-the-badge&labelColor=0A0A0B" alt="factory0.ventures"></a>
   <img src="https://img.shields.io/badge/VENTURES-03-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Ventures: 3">
-  <a href="https://github.com/Factory-Zero/harness"><img src="https://img.shields.io/badge/HARNESS-RUST-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Harness: Rust"></a>
+  <a href="https://github.com/Cratefield/harness"><img src="https://img.shields.io/badge/HARNESS-RUST-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Harness: Rust"></a>
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ venture cannot reach production.
 
 | Repo | What it is |
 | :--- | :--- |
-| [**harness**](https://github.com/Factory-Zero/harness) | The open-source Rust harness. Modules ship as `factory0-*` crates |
+| [**harness**](https://github.com/Cratefield/harness) | The open-source Rust harness every venture backend compiles from. Moved to the [Cratefield](https://github.com/Cratefield) organisation in September 2026, which is the venture that commercialises it. Still MIT, still `factory0-*` crates |
 | [**venture-backend-template**](https://github.com/Factory-Zero/venture-backend-template) | Template for a new venture backend on the harness |
 | [**website**](https://github.com/Factory-Zero/website) | [factory0.ventures](https://factory0.ventures). Static HTML, no build step, no dependencies |
 | **.github** | This page and the mark |
