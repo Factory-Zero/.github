@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Factory Zero org banner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  html, body { margin: 0; padding: 0; width: 1280px; height: 440px; overflow: hidden; }
+  body {
+    background: #0A0A0B; color: #EDEBE6; font-family: Archivo, system-ui, sans-serif;
+    position: relative; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; text-align: center;
+    box-sizing: border-box; padding: 0 80px;
+  }
+  .grid {
+    position: absolute; inset: 0; opacity: .5;
+    background-image: linear-gradient(#1C1C1F 1px, transparent 1px), linear-gradient(90deg, #1C1C1F 1px, transparent 1px);
+    background-size: 64px 64px;
+    -webkit-mask-image: radial-gradient(70% 70% at 50% 50%, #000 20%, transparent 78%);
+            mask-image: radial-gradient(70% 70% at 50% 50%, #000 20%, transparent 78%);
+  }
+  .glow { position: absolute; inset: 0; background: radial-gradient(34% 60% at 50% 116%, rgba(255,90,54,.15), transparent 68%); }
+  .mark { position: relative; width: 78px; height: 78px; margin-bottom: 26px; }
+  .word {
+    position: relative; font-size: 62px; font-weight: 500; letter-spacing: .30em;
+    line-height: 1; margin: 0; text-transform: uppercase; text-indent: .30em;
+  }
+  .tag { position: relative; font-size: 25px; font-weight: 300; color: #A9A8A5; margin: 26px 0 0; }
+  .meta {
+    position: relative; font-family: 'IBM Plex Mono', monospace; font-size: 13px;
+    letter-spacing: .2em; text-transform: uppercase; color: #4A4A4E; margin: 32px 0 0;
+  }
+  .meta b { color: #FF5A36; font-weight: 400; }
+  .rule { position: absolute; left: 0; right: 0; bottom: 0; height: 4px; background: #FF5A36; }
+</style>
+</head>
+<body>
+  <div class="grid"></div>
+  <div class="glow"></div>
+  <svg class="mark" viewBox="0 0 512 512" aria-hidden="true">
+    <path d="M362.07 149.93 A 150 150 0 1 1 149.93 149.93" fill="none" stroke="#FF5A36" stroke-width="40" stroke-linecap="butt"/>
+  </svg>
+  <p class="word">Factory Zero</p>
+  <p class="tag">We build companies that operate and grow themselves.</p>
+  <p class="meta">factory0.ventures &nbsp;&middot;&nbsp; <b>AI-native venture studio</b> &nbsp;&middot;&nbsp; est. 2026</p>
+  <div class="rule"></div>
+</body>
+</html>

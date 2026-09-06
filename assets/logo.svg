@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Factory Zero">
+  <title>Factory Zero</title>
+  <desc>An open ring: a zero that has not been closed, the mark of Factory Zero.</desc>
+  <defs>
+    <radialGradient id="fzglow" cx="50%" cy="50%" r="50%">
+      <stop offset="55%"  stop-color="#FF5A36" stop-opacity="0"/>
+      <stop offset="82%"  stop-color="#FF5A36" stop-opacity=".14"/>
+      <stop offset="100%" stop-color="#FF5A36" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="#0A0A0B"/>
+  <circle cx="256" cy="256" r="230" fill="url(#fzglow)"/>
+
+  <!-- 270 degrees of arc. The gap at the top is the point: the zero is open,
+       and the line is still being drawn. Geometry matches assets/favicon.svg
+       on the site, scaled from r=9 to r=150 with the same stroke ratio. -->
+  <path d="M362.07 149.93 A 150 150 0 1 1 149.93 149.93"
+        fill="none" stroke="#FF5A36" stroke-width="40" stroke-linecap="butt"/>
+</svg>
