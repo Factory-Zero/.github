@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://factory0.ventures"><img src="https://img.shields.io/badge/FACTORY0.VENTURES-LIVE-FF5A36?style=for-the-badge&labelColor=0A0A0B" alt="factory0.ventures"></a>
-  <img src="https://img.shields.io/badge/VENTURES-03-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Ventures: 3">
+  <img src="https://img.shields.io/badge/VENTURES-18-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Ventures: 18">
   <a href="https://github.com/Cratefield/harness"><img src="https://img.shields.io/badge/HARNESS-RUST-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Harness: Rust"></a>
 </p>
 
@@ -64,6 +64,21 @@ strategy, economics and P&L.
 | `FZ-001` | **Kontinuum** | Music | `PROTOTYPE` | [kontinuum.audio](https://kontinuum.audio) |
 | `FZ-002` | **Undercover Rockstars** | Apparel | `LAUNCH` | [undercoverrockstars.com](https://undercoverrockstars.com) |
 | `FZ-003` | **Yoginini** | Wellness | `VALIDATION` | [yoginini.us](https://yoginini.us) |
+| `FZ-004` | **Cratefield** | Infrastructure | `VALIDATION` | [cratefield.com](https://cratefield.com) |
+| `FZ-005` | **VibeCaddie** | Developer tools | `VALIDATION` | [vibecaddie.com](https://vibecaddie.com) |
+| `FZ-006` | **Colonizer** | Developer tools | `PROTOTYPE` | [colonizer.dev](https://colonizer.dev) |
+| `FZ-007` | **FindsYou.work** | Careers | `VALIDATION` | [findsyou.work](https://findsyou.work) |
+| `FZ-008` | **SupportGenius** | Support | `VALIDATION` | [supportgeni.us](https://supportgeni.us) |
+| `FZ-009` | **promptdecode** | Security | `VALIDATION` | [promptdeco.de](https://promptdeco.de) |
+| `FZ-010` | **Groove Guru** | Music | `VALIDATION` | [groove.guru](https://groove.guru) |
+| `FZ-011` | **PosPlugin** | Integrations | `VALIDATION` | [posplug.in](https://posplug.in) |
+| `FZ-012` | **Keep Shipping** | Developer tools | `VALIDATION` | [keepshipping.run](https://keepshipping.run) |
+| `FZ-013` | **Owlpost** | Email | `VALIDATION` | [owlpost.to](https://owlpost.to) |
+| `FZ-014` | **Bloodrank** | Community | `VALIDATION` | [bloodrank.dev](https://bloodrank.dev) |
+| `FZ-015` | **ratecla.im** | Travel | `VALIDATION` | [ratecla.im](https://ratecla.im) |
+| `FZ-016` | **Sealbin** | Security | `VALIDATION` | [sealb.in](https://sealb.in) |
+| `FZ-017` | **release.show** | Video | `VALIDATION` | [release.show](https://release.show) |
+| `FZ-018` | **Living Brain** | Developer tools | `VALIDATION` | [livingbrain.wiki](https://livingbrain.wiki) |
 
 **Kontinuum** — an AI composer performing on a deterministic real-time engine.
 Music written and performed continuously, personalised to the listener, and
@@ -78,7 +93,21 @@ sixteen garments, cut in Bali.
 tracks 33 body landmarks and speaks one calm correction at a time; no video ever
 leaves the device. Real teachers are bookable by the hour alongside it.
 
-> **None of the three is selling yet.** Every venture site states its own status
+**Living Brain** — a brain for your team that writes its own company wiki and
+keeps improving it, planned for Slack, coding agents over MCP, and the terminal
+as one fast Rust binary. Team conversations would become Markdown pages for
+people, projects, decisions and customers, every fact linked to its source
+message, with nightly passes that merge duplicates, surface contradictions and
+refresh stale facts. Open core (Apache-2.0, with a commercial `ee/`), built in
+Rust as a Cratefield venture on Cloudflare Workers. Nothing is built yet: the
+plan is four epics and 38 issues in
+[Livingbrain-wiki/livingbrain](https://github.com/Livingbrain-wiki/livingbrain),
+and early access is a waitlist.
+
+Every record's full description, aims and public source links are in the
+[registry](https://factory0.ventures/ventures/).
+
+> **None of the eighteen is selling yet.** Every venture site states its own status
 > plainly and no checkout is open anywhere. `autonomy` is `null` across the
 > registry, which renders as an em dash rather than an invented percentage —
 > please do not report any of them as shipped.
