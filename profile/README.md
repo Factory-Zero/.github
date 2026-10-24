@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://factory0.ventures"><img src="https://img.shields.io/badge/FACTORY0.VENTURES-LIVE-FF5A36?style=for-the-badge&labelColor=0A0A0B" alt="factory0.ventures"></a>
-  <img src="https://img.shields.io/badge/VENTURES-18-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Ventures: 18">
+  <img src="https://img.shields.io/badge/VENTURES-23-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Ventures: 23">
   <a href="https://github.com/Cratefield/harness"><img src="https://img.shields.io/badge/HARNESS-RUST-EDEBE6?style=for-the-badge&labelColor=0A0A0B" alt="Harness: Rust"></a>
 </p>
 
@@ -66,7 +66,7 @@ strategy, economics and P&L.
 | `FZ-003` | **Yoginini** | Wellness | `VALIDATION` | [yoginini.us](https://yoginini.us) |
 | `FZ-004` | **Cratefield** | Infrastructure | `VALIDATION` | [cratefield.com](https://cratefield.com) |
 | `FZ-005` | **VibeCaddie** | Developer tools | `VALIDATION` | [vibecaddie.com](https://vibecaddie.com) |
-| `FZ-006` | **Colonizer** | Developer tools | `PROTOTYPE` | [colonizer.dev](https://colonizer.dev) |
+| `FZ-006` | **Colonizer** | Developer tools | `LAUNCH` | [colonizer.dev](https://colonizer.dev) |
 | `FZ-007` | **FindsYou.work** | Careers | `VALIDATION` | [findsyou.work](https://findsyou.work) |
 | `FZ-008` | **SupportGenius** | Support | `VALIDATION` | [supportgeni.us](https://supportgeni.us) |
 | `FZ-009` | **promptdecode** | Security | `VALIDATION` | [promptdeco.de](https://promptdeco.de) |
@@ -79,6 +79,11 @@ strategy, economics and P&L.
 | `FZ-016` | **Sealbin** | Security | `VALIDATION` | [sealb.in](https://sealb.in) |
 | `FZ-017` | **release.show** | Video | `VALIDATION` | [release.show](https://release.show) |
 | `FZ-018` | **Living Brain** | Developer tools | `VALIDATION` | [livingbrain.wiki](https://livingbrain.wiki) |
+| `FZ-019` | **Shoal** | Simulation | `VALIDATION` | [shoal.ing](https://shoal.ing) |
+| `FZ-020` | **Tokker** | Pricing | `VALIDATION` | [tokker.dev](https://tokker.dev) |
+| `FZ-021` | **Ledgers** | Accounting | `VALIDATION` | [ledgers.sh](https://ledgers.sh) |
+| `FZ-022` | **Ghostwritin'** | Writing | `VALIDATION` | [ghostwrit.in](https://ghostwrit.in) |
+| `FZ-023` | **Squeezin** | Links | `LAUNCH` | [squeez.in](https://squeez.in) |
 
 **Kontinuum** — an AI composer performing on a deterministic real-time engine.
 Music written and performed continuously, personalised to the listener, and
@@ -107,10 +112,12 @@ and early access is a waitlist.
 Every record's full description, aims and public source links are in the
 [registry](https://factory0.ventures/ventures/).
 
-> **None of the eighteen is selling yet.** Every venture site states its own status
-> plainly and no checkout is open anywhere. `autonomy` is `null` across the
-> registry, which renders as an em dash rather than an invented percentage —
-> please do not report any of them as shipped.
+> **None of the twenty-three is selling yet.** Colonizer and Squeezin went live on
+> 22 October 2026 and are free to use; Squeezin's $2 claimed names are planned but
+> not on sale. Every venture site states its own status plainly and no checkout is
+> open anywhere. `autonomy` is `null` across the registry, which renders as an em
+> dash rather than an invented percentage. Please do not report the other
+> twenty-one as shipped.
 
 The registry lists only what exists. A venture with no public surface does not
 get a placeholder row.
